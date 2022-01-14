@@ -161,6 +161,7 @@ category: Libraries
 * Logistic Regression
 * Neighbors (Nearest, Farthest, Range, k, Classification)
 * Non-Negative Matrix Factorization
+* Ordinary Least Squares Regression (OLSR)
 * Principal Component Analysis(PCA)
 * Random Forest
 * Support Vector Machines
